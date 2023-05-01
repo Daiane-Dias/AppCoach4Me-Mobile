@@ -18,6 +18,7 @@ function AppStack() {
       </Navigator>
     </NavigationContainer>
   );
+  
 }
 
 export default AppStack;
